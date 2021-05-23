@@ -24,5 +24,10 @@ namespace BakeryManagement
         {
 
         }
+
+        private void BakeryItemsCount_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

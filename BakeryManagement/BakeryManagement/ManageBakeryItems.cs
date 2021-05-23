@@ -32,9 +32,9 @@ namespace BakeryManagement
 
         private void button2_Click(object sender, EventArgs e)
         {
-           // BakeryItemsCount form = new BakeryItemsCount();
-            //form.visible = true;
-            //this.Hide();
+            BakeryItemsCount form = new BakeryItemsCount();
+            form.Visible = true;
+            this.Hide();
         }
 
         private void button1_Click(object sender, EventArgs e)
