@@ -14,5 +14,19 @@ namespace BakeryManagement
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            generateReceipt f5 = new generateReceipt();
+            f5.Visible = true;
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ManageBakeryItems f6 = new ManageBakeryItems();
+            f6.Visible = true;
+            this.Hide();
+        }
     }
 }

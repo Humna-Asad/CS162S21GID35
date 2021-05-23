@@ -19,5 +19,12 @@ namespace BakeryManagement
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Receipt f8 = new Receipt();
+            f8.Visible = true;
+            this.Hide();
+        }
     }
 }

@@ -29,7 +29,16 @@ namespace BakeryManagement
 
         private void button1_Click(object sender, EventArgs e)
         {
+            CashierLogin f2 = new CashierLogin();
+            f2.Visible = true;
+            this.Hide();
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Manager_LogIn_Information f3 = new Manager_LogIn_Information();
+            f3.Visible = true;
+            this.Hide();
         }
     }
 }

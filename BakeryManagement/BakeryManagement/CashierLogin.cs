@@ -14,5 +14,12 @@ namespace BakeryManagement
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CashierTask f4 = new CashierTask();
+            f4.Visible = true;
+            this.Hide();
+        }
     }
 }
