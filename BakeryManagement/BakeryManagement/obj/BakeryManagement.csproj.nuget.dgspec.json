@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj": {}
+    "D:\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj": {
+    "D:\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
+        "projectUniqueName": "D:\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
         "projectName": "BakeryManagement",
-        "projectPath": "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
+        "projectPath": "D:\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
         "packagesPath": "C:\\Users\\BajwaTraders\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\obj\\",
+        "outputPath": "D:\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BajwaTraders\\AppData\\Roaming\\NuGet\\NuGet.Config",
