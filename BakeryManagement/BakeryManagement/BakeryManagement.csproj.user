@@ -8,10 +8,25 @@
     <Compile Update="CashierLogin.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="CashierTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="generateReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Employees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage Salary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageBakeryItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manager LogIn Information.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ManagerTasks.cs">

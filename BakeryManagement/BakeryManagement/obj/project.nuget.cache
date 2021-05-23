@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "it91SmILLJkiq0/mKoAjnjc0kMlM3K/i8KSAek9A9n7k7gEgUH0ckSqnvDfb2cIOWUGenEK3b1fsETTO6+UkNg==",
+  "dgSpecHash": "JeK0ME4ziI5DZso5cvWHaCl8ghHv/HrBBui5an2XyjTdsX2UzZ6tvJ5lx4VS/hQuWh/2AHfANVcJBab+RpK5nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ch COMPUTR\\Desktop\\FinalProject\\CS162S21GID35\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
+  "projectFilePath": "D:\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Ch COMPUTR\\Desktop\\FinalProject\\CS162S21GID35\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
