@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj": {}
+    "C:\\Users\\Ch COMPUTR\\Desktop\\FinalProject\\CS162S21GID35\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj": {
+    "C:\\Users\\Ch COMPUTR\\Desktop\\FinalProject\\CS162S21GID35\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Ch COMPUTR\\Desktop\\FinalProject\\CS162S21GID35\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
         "projectName": "BakeryManagement",
-        "projectPath": "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
-        "packagesPath": "C:\\Users\\BajwaTraders\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BajwaTraders\\source\\repos\\BakeryManagement\\BakeryManagement\\obj\\",
+        "projectPath": "C:\\Users\\Ch COMPUTR\\Desktop\\FinalProject\\CS162S21GID35\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
+        "packagesPath": "C:\\Users\\Ch COMPUTR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ch COMPUTR\\Desktop\\FinalProject\\CS162S21GID35\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BajwaTraders\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ch COMPUTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
