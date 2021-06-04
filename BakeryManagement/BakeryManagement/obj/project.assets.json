@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Ch COMPUTR\\.nuget\\packages\\": {}
+    "C:\\Users\\BajwaTraders\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ch COMPUTR\\Desktop\\final\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
+      "projectUniqueName": "D:\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
       "projectName": "BakeryManagement",
-      "projectPath": "C:\\Users\\Ch COMPUTR\\Desktop\\final\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
-      "packagesPath": "C:\\Users\\Ch COMPUTR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ch COMPUTR\\Desktop\\final\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\obj\\",
+      "projectPath": "D:\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\BakeryManagement.csproj",
+      "packagesPath": "C:\\Users\\BajwaTraders\\.nuget\\packages\\",
+      "outputPath": "D:\\CS162S21GID35\\BakeryManagement\\BakeryManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ch COMPUTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BajwaTraders\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
