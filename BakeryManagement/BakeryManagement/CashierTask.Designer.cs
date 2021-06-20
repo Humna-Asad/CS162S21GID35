@@ -55,9 +55,9 @@ namespace BakeryManagement
             this.label1.ForeColor = System.Drawing.Color.DarkGoldenrod;
             this.label1.Location = new System.Drawing.Point(25, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(189, 16);
+            this.label1.Size = new System.Drawing.Size(94, 16);
             this.label1.TabIndex = 1;
-            this.label1.Text = "This Form Is for task of Cashier";
+            this.label1.Text = "Cashier Tasks";
             // 
             // button1
             // 
@@ -106,7 +106,7 @@ namespace BakeryManagement
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.ForeColor = System.Drawing.Color.DarkGoldenrod;
             this.Name = "CashierTask";
-            this.Text = "CashierTask";
+            this.Text = "CashierTasks";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

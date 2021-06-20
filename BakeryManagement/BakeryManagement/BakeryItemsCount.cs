@@ -16,6 +16,12 @@ namespace BakeryManagement
         {
             InitializeComponent();
         }
+        public BakeryItemsCount(string value)
+        {
+            InitializeComponent();
+
+        }
+
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
@@ -43,6 +49,9 @@ namespace BakeryManagement
     
         }
 
-        
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

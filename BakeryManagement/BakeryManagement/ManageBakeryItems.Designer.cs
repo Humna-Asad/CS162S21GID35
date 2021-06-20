@@ -43,11 +43,12 @@ namespace BakeryManagement
             this.label1.BackColor = System.Drawing.Color.OldLace;
             this.label1.Font = new System.Drawing.Font("Tempus Sans ITC", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.DarkGoldenrod;
-            this.label1.Location = new System.Drawing.Point(49, 123);
+            this.label1.Location = new System.Drawing.Point(228, 109);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(264, 17);
+            this.label1.Size = new System.Drawing.Size(90, 17);
             this.label1.TabIndex = 2;
-            this.label1.Text = "This form included in the task of Cashier";
+            this.label1.Text = "Bakery Items";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
             // 
@@ -56,7 +57,7 @@ namespace BakeryManagement
             this.button1.ForeColor = System.Drawing.Color.DarkGoldenrod;
             this.button1.Location = new System.Drawing.Point(325, 170);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(159, 23);
+            this.button1.Size = new System.Drawing.Size(159, 40);
             this.button1.TabIndex = 5;
             this.button1.Text = "Update Bakery items";
             this.button1.UseVisualStyleBackColor = false;
@@ -69,7 +70,7 @@ namespace BakeryManagement
             this.button2.ForeColor = System.Drawing.Color.DarkGoldenrod;
             this.button2.Location = new System.Drawing.Point(62, 170);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(169, 23);
+            this.button2.Size = new System.Drawing.Size(169, 40);
             this.button2.TabIndex = 6;
             this.button2.Text = " Manage Bakery Items";
             this.button2.UseVisualStyleBackColor = false;
@@ -78,9 +79,9 @@ namespace BakeryManagement
             // pictureBox2
             // 
             this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
-            this.pictureBox2.Location = new System.Drawing.Point(39, 95);
+            this.pictureBox2.Location = new System.Drawing.Point(49, 87);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(477, 217);
+            this.pictureBox2.Size = new System.Drawing.Size(477, 219);
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
             this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
@@ -90,7 +91,7 @@ namespace BakeryManagement
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(550, 409);
+            this.ClientSize = new System.Drawing.Size(624, 409);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
