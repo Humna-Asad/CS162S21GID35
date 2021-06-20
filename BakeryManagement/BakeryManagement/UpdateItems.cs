@@ -26,7 +26,7 @@ namespace BakeryManagement
             int no_of_selectedItems = checkedListBox1.SelectedItems.Count;
             for (int i = 0; i < no_of_selectedItems; i++)
             { 
-               SelectedItems[i]= checkedListBox1.SelectedItem.ToString();
+               SelectedItems[i]= checkedListBox1.SelectedItem.ToString(); 
             }
             
         }

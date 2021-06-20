@@ -16,7 +16,7 @@ namespace BakeryManagement
         {
             InitializeComponent();
         }
-        public BakeryItemsCount(string value)
+        public BakeryItemsCount(string []value,int size)
         {
             InitializeComponent();
 
